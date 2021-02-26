@@ -1,4 +1,4 @@
-#Coder:SoeZayZay
+#Author:SoeZayZay
 #Dtae :23/2/2021
 import hashlib
 import pyfiglet
